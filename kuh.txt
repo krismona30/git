@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 belajar membuat branch git
+=======
+ahahahah
+>>>>>>> mona1
